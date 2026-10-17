@@ -10,7 +10,7 @@
 |6   |执行 `git commit -m "SaySomething..."`，在 `SaySomething...` 处输入描述|
 |7   |执行 `git remote add origin https`，在 `https` 处输入仓库网址|
 |8   |执行 `git push origin`|
-|9   |若Git弹出<br>`fatal: The current branch master has no upstream branch.`<br>`To push the current branch and set the remote as upstream, use`<br><br>`    git push --set-upstream origin master`<br><br>`To have this happen automatically for branches without a tracking`<br>`upstream, see 'push.autoSetupRemote' in 'git help config'.`<br>执行 `git push --set-upstream origin master`<br>再执行 `git push origin`<br>否则忽略这一步|  
+|9   |若 Git 弹出<br>`fatal: The current branch master has no upstream branch.`<br>`To push the current branch and set the remote as upstream, use`<br><br>`    git push --set-upstream origin master`<br><br>`To have this happen automatically for branches without a tracking`<br>`upstream, see 'push.autoSetupRemote' in 'git help config'.`<br>执行 `git push --set-upstream origin master`<br>再执行 `git push origin`<br>否则忽略这一步|  
 
 3.下载文件
 |序号|操作|
