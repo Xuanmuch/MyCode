@@ -1,5 +1,5 @@
-1.下载Git  
-2.上传文件
+1.下载 Git  
+2.上传文件：
 |序号|操作|
 |:--:|----|
 |1   |运行 `git-bash`|
@@ -12,7 +12,7 @@
 |8   |执行 `git push origin`|
 |9   |若 Git 弹出<br>`fatal: The current branch master has no upstream branch.`<br>`To push the current branch and set the remote as upstream, use`<br><br>`    git push --set-upstream origin master`<br><br>`To have this happen automatically for branches without a tracking`<br>`upstream, see 'push.autoSetupRemote' in 'git help config'.`<br>执行 `git push --set-upstream origin master`<br>再执行 `git push origin`<br>否则忽略这一步|  
 
-3.下载文件
+3.下载文件：
 |序号|操作|
 |:--:|----|
 |1   |运行 `git-bash`|
